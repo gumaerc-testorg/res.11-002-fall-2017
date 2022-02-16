@@ -2,6 +2,13 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Double Taking and Troublemaking: Reflecting and Disrupting'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Double Taking and Troublemaking: Reflecting and Disrupting'
 uid: 96d66be4-dc84-77ea-616e-3850dea7709d

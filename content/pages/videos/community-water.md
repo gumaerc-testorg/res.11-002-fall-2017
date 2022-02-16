@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Videos
+ocw_type: SupplementalResourceSection
 parent_title: Videos
+parent_type: SupplementalResourceSection
 parent_uid: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
 title: 'Making Something from Nothing: Community, Water, Pedagogy, and Learning'
 uid: c0eca78a-8631-6d8e-c285-bef9e37e0109

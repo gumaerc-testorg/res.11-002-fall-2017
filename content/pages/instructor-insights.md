@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: af51e631-568c-11bc-fd2f-7001a2c48de5
 ---
@@ -68,16 +70,3 @@ None
 ### Offered
 
 This residency was offered during the Fall 2017 semester and included 9 sessions over the course of 4 months.
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![Four tables pushed together, surrounded by black and orange chairs. Wall of windows. Chalkboard on the left. Large flat screen monitor on the right.]({{< resource_file 5a364018-b9d7-f49e-e355-909e88e33683 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture and Performance  
-    
-    Lectures and performances, along with community forums, were held in a classroom with moveable tables and chairs and an A/V system. Seminars were held in rooms in other spaces as available.

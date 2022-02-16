@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'When Curriculum Becomes Art Practice: Educational Experience as Intentionally
+  Disruptive Pedagogy'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'When Curriculum Becomes Art Practice: Educational Experience as Intentionally
   Disruptive Pedagogy'

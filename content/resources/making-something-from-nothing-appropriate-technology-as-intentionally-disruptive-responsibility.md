@@ -2,6 +2,14 @@
 content_type: resource
 description: ''
 file: null
+learning_resource_types: []
+optional_tab_title: ''
+optional_text: ''
+parent_title: 'Making Something from Nothing: Appropriate Technology as Intentionally
+  Disruptive Responsibility'
+parent_type: SupplementalResourceSection
+related_resources_text: ''
+resource_index_text: ''
 resourcetype: Video
 title: 'Making Something from Nothing: Appropriate Technology as Intentionally Disruptive
   Responsibility'
