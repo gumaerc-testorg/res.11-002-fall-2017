@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Double Taking and Troublemaking: Socially Engaged Practice Enabling Difficult
   Conversations II'
 uid: 8e78466c-90f3-67a5-d6ef-0aca3506814f

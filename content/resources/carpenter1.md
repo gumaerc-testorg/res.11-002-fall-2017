@@ -13,6 +13,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Videos
 parent_type: SupplementalResourceSection
+parent_uid: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
 resourcetype: Image
 title: Carpenter1.JPG
 uid: 457e00f5-0bb7-e234-6fbc-e29a3e15c720

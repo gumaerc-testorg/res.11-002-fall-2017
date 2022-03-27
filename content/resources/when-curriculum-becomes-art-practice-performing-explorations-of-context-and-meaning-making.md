@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'When Curriculum Becomes Art Practice: Performing Explorations of Context and
   Meaning Making'
 uid: 47dfc699-251c-e343-42a7-549a5da6199d

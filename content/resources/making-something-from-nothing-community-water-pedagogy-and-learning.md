@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -10,6 +11,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Making Something from Nothing: Community, Water, Pedagogy, and Learning'
 uid: b7e40da5-fcdd-4f3e-5a90-02a2f1d8b4e0
 video_files:

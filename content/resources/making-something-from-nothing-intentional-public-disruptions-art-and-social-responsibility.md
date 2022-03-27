@@ -1,6 +1,7 @@
 ---
 content_type: resource
 description: ''
+end_time: ''
 file: null
 learning_resource_types: []
 optional_tab_title: ''
@@ -11,6 +12,7 @@ parent_type: SupplementalResourceSection
 related_resources_text: ''
 resource_index_text: ''
 resourcetype: Video
+start_time: ''
 title: 'Making Something From Nothing: Intentional Public Disruptions, Art, and Social
   Responsibility'
 uid: 7120938b-fde7-a09e-3bee-2e184444f8a2

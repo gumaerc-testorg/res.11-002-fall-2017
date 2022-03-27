@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Instructor Insights
 parent_type: ThisCourseAtMITSection
+parent_uid: af51e631-568c-11bc-fd2f-7001a2c48de5
 resourcetype: Image
 title: Carpenter.png
 uid: 9942b252-1c43-272d-10b7-852271d1a89f
