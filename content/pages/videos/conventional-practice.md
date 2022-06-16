@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this video, Carpenter explores the notion of using conventional studio
+  activities to expand thematic and conceptual exploration, and participants engage
+  in two such activities. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

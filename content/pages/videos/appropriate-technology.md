@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'Artist B. Stephen Carpenter II introduces his theory of disruption and
+  explains how his work combines art practice, art education, and social practice. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

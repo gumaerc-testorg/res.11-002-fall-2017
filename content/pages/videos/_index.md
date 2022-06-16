@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: 'This section contains videos, descriptions, and related resources. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection
@@ -7,7 +8,7 @@ title: Videos
 uid: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
 ---
 
-![A man stands behind a lecturn next to a screen that says Something Here.]({{< resource_file 457e00f5-0bb7-e234-6fbc-e29a3e15c720 >}})
+{{< resource 457e00f5-0bb7-e234-6fbc-e29a3e15c720 >}}
 
 B. Stephen Carpenter II delivers a lecture, accompanied by examples of inexpensive ceramic water filters. (Image by Sham Sthankiya Photography. Used with permission.)
 
@@ -18,28 +19,28 @@ During his fall 2017 residency, Carpenter provided new perspectives on issues of
 Part I: Making Something from Nothing
 -------------------------------------
 
-[Video 1: Appropriate Technology as Intentionally Disruptive Responsibility]({{< baseurl >}}/pages/videos/appropriate-technology)
+{{% resource_link 37775d8c-9608-b828-6036-a649cf3d705f "Video 1: Appropriate Technology as Intentionally Disruptive Responsibility" %}}
 
-[Video 2: Intentional Public Disruptions, Art, and Social Responsibility]({{< baseurl >}}/pages/videos/public-disruptions)
+{{% resource_link 65b19c11-9bbb-1891-4229-baa8cf9539f0 "Video 2: Intentional Public Disruptions, Art, and Social Responsibility" %}}
 
-[Video 3: Community, Water, Pedagogy, and Learning]({{< baseurl >}}/pages/videos/community-water)
+{{% resource_link c0eca78a-8631-6d8e-c285-bef9e37e0109 "Video 3: Community, Water, Pedagogy, and Learning" %}}
 
 Part II: Double Taking and Troublemaking
 ----------------------------------------
 
-[Video 4: Socially Engaged Practice Enabling Difficult Conversations I]({{< baseurl >}}/pages/videos/socially-engaged)
+{{% resource_link 803b8b8a-fa8f-48d1-c2a1-e85d14e6cc91 "Video 4: Socially Engaged Practice Enabling Difficult Conversations I" %}}
 
-[Video 5: Socially Engaged Practice Enabling Difficult Conversations II]({{< baseurl >}}/pages/videos/difficult-conversations)
+{{% resource_link f551e404-071b-7e1c-aa06-fd2c323ae30d "Video 5: Socially Engaged Practice Enabling Difficult Conversations II" %}}
 
-[Video 6: Reflecting and Disrupting]({{< baseurl >}}/pages/videos/reflecting-and-disrupting)
+{{% resource_link 113204d7-e309-2c63-1672-b1f71594c2da "Video 6: Reflecting and Disrupting" %}}
 
 Part III: When Curriculum Becomes Art Practice
 ----------------------------------------------
 
-[Video 7: Educational Experiences as Intentionally Disruptive Pedagogy]({{< baseurl >}}/pages/videos/educational-experience)
+{{% resource_link f67ed85f-6399-759e-c9b4-99c7603584fc "Video 7: Educational Experiences as Intentionally Disruptive Pedagogy" %}}
 
-[Video 8: Art Education as Engagement with the World]({{< baseurl >}}/pages/videos/art-education)
+{{% resource_link b5a3e82c-50f8-bcce-9463-2d8978513b6c "Video 8: Art Education as Engagement with the World" %}}
 
-[Video 9: Conventional Practice and Conceptual Explorations]({{< baseurl >}}/pages/videos/conventional-practice)
+{{% resource_link 2789883e-aa87-a524-74e0-692ce409e0fe "Video 9: Conventional Practice and Conceptual Explorations" %}}
 
-[Video 10: Performing Explorations of Context and Meaning Making]({{< baseurl >}}/pages/videos/performing-explorations)
+{{% resource_link ef9745b5-e682-1999-800f-db73e7877dcb "Video 10: Performing Explorations of Context and Meaning Making" %}}

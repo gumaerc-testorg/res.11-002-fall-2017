@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'In this video, Carpenter provides an introduction to social practice
+  and socially engaged art, explained both through the literature and through real
+  world examples. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

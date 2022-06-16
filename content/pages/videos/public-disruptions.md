@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this video, Carpenter offers a live demonstration of the portable
+  water filter press he and his students have developed.
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

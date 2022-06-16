@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: In this video, Carpenter discusses ways to integrate social practice
+  into art education and curricula, using the example of his work on ceramic water
+  filters.
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This video is about curriculum theory and the movement away from art
+  as materials-based practice to art as engagement with the world. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

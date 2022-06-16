@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: In this video, Carpenter explains the concepts of double taking and troublemaking
+  through his project on double water fountains.
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

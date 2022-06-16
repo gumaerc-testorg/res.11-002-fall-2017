@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This video focuses on how educators can disrupt traditional pedagogical
+  models to engage learners with social issues. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection

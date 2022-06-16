@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: 'This video takes the concepts discussed about socially engaged art out
+  into the field. '
 learning_resource_types:
 - Videos
 ocw_type: SupplementalResourceSection
