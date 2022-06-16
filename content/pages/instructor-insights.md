@@ -1,22 +1,21 @@
 ---
 content_type: page
+description: "In this section Professor Lawrence Susskind responds to questions about\
+  \ his experience facilitating the \u201CIntentional Public Disruptions: Art, Responsibility\
+  \ and Pedagogy\u201D residency, along with Professor Stephen Carpenter, Ida Ely\
+  \ Rubin Artist in Residence. "
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: af51e631-568c-11bc-fd2f-7001a2c48de5
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Interview
 
-![Man holding a bell shaped ceramic item on a slab.]({{< resource_file 9942b252-1c43-272d-10b7-852271d1a89f >}})
-
-Professor Carpenter demonstrating how to construct a ceramic water filter. (Image by Sham Sthankiya Photography. Used with permission.)
-
-_Below, Professor Lawrence Susskind responds to questions about his experience facilitating the “Intentional Public Disruptions: Art, Responsibility, and Pedagogy” residency, along with Professor Stephen Carpenter, Ida Ely Rubin Artist in Residence._
+*Below, Professor Lawrence Susskind responds to questions about his experience facilitating the “Intentional Public Disruptions: Art, Responsibility, and Pedagogy” residency, along with Professor Stephen Carpenter, Ida Ely Rubin Artist in Residence.*
 
 **OCW**: Who participated in the Fall 2017 residency? What kind of background experiences related to the residency did participants bring to the experience?
 
@@ -34,7 +33,7 @@ For Professor Carpenter, public pedagogy means presenting yourself and your art 
 
 **OCW**: How did Professor Carpenter create space in the residency for having challenging conversations about social inequalities?
 
-![Two men sitting at the head of a table, looking toward to two women sitting on the left side of the table. One of the women is talking.]({{< resource_file fa8ed3ff-51e2-b5ef-094c-709f9edbe8cb >}})
+{{< resource fa8ed3ff-51e2-b5ef-094c-709f9edbe8cb >}}
 
 Professors Susskind (left) and Carpenter (right) facilitating a residency seminar. (Image courtesy of Sham Sthankiya Photography. Used with permission.)
 
@@ -42,7 +41,7 @@ At one session, Professor Carpenter asked each of us to find a public space on c
 
 {{< div-with-class "reveal1">}}
 
-› _Read More/Read Less_
+› *Read More/Read Less*
 
 {{< /div-with-class >}}{{< div-with-class "toggle1">}}
 
@@ -56,8 +55,7 @@ Without funding from the MIT Center for Art, Science & Technology (CAST), there 
 
 {{< /div-with-class >}}
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
