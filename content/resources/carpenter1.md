@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/457e00f50bb7e2346fbce29a3e15c720_Carpenter1.JPG
+file_size: 46688
 file_type: image/jpeg
 image_metadata:
   caption: ''

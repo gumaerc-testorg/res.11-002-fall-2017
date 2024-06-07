@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/643702df8c64fedcee7f640e07306d0d_MITRES11-002F17_Video_03_300k.srt
+file_size: 41496
 file_type: application/x-subrip
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
