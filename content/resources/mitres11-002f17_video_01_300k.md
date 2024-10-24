@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/9240a47d41601aa510f26fa4d7e5b4bd_MITRES11-002F17_Video_01_300k.srt
+file: /ol-ocw-studio-app/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/9240a47d41601aa510f26fa4d7e5b4bd_MITRES11-002F17_Video_01_300k.srt
 file_size: 40777
 file_type: application/x-subrip
 learning_resource_types: []
