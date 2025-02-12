@@ -21,7 +21,7 @@ In this video, Carpenter introduces his theory of disruption and explains how hi
 
 People and ideas referenced in this video:
 
-- Oscar Muñoz and the [Colonias Program](https://collaborations.tamu.edu/colonias/index.html) at Texas A&M University
+- Oscar Muñoz and the [Colonias Program](https://www.arch.tamu.edu/impact/centers-institutes-outreach/colonias-program/) at Texas A&M University
 - Umberto Eco’s theory of intentions
 - [Potters for Peace Ceramic Water Filter Project](http://pottersforpeace.org/?page_id=63)
 - [Pablo Helguera, Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/)
