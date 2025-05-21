@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/fa8ed3ff51e2b5ef094c709f9edbe8cb_Larry_Stephen.png
+file: /courses/res-11-002-intentional-public-disruptions-art-responsibility-and-pedagogy-fall-2017/fa8ed3ff51e2b5ef094c709f9edbe8cb_Larry_Stephen.png
 file_size: 255530
 file_type: image/png
 image_metadata:
