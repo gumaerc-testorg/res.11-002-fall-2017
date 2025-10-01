@@ -21,12 +21,12 @@ In this video, Carpenter introduces his theory of disruption and explains how hi
 
 People and ideas referenced in this video:
 
-- Oscar Muñoz and the [Colonias Program](https://www.arch.tamu.edu/impact/centers-institutes-outreach/colonias-program/) at Texas A&M University
+- Oscar Muñoz and the {{% resource_link "d671d493-6e84-4764-b1db-9a4c13dc588c" "Colonias Program" %}} at Texas A&M University
 - Umberto Eco’s theory of intentions
-- [Potters for Peace Ceramic Water Filter Project](http://pottersforpeace.org/?page_id=63)
-- [Pablo Helguera, Education for Socially Engaged Art](http://pablohelguera.net/2011/11/education-for-socially-engaged-art-2011/)
-- [Potters Water Action Group](https://www.facebook.com/potterswateractiongroup/)
+- {{% resource_link "d090a256-0d6c-48cd-bf7d-9c9bd59cc59d" "Potters for Peace Ceramic Water Filter Project" %}}
+- {{% resource_link "b4e63e77-c6f0-440a-b333-402c72c4c599" "Pablo Helguera, Education for Socially Engaged Art" %}}
+- {{% resource_link "12e88d6a-d8db-4cc5-9f3a-bcc9b7a3d9a5" "Potters Water Action Group" %}}
 - Appropriate Technology: Hernandez, M. "Appropriate Technology in Developing Countries." *NCECA Journal* XXII (2001): 96-102 
-- [Africana Research Center](http://arc.la.psu.edu/)
+- {{% resource_link "7c386617-9aae-424c-8611-915917ddd9b7" "Africana Research Center" %}}
 
 Special thanks to the Africana Research Center for their support of the water filter project.
