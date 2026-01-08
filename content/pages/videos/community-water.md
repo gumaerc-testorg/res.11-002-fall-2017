@@ -19,10 +19,10 @@ In this video, Carpenter discusses ways to integrate social practice into art ed
 
 People and ideas referenced in this video:
 
-*   {{% resource_link "bad0373f-9c1a-4ae3-b43a-c2d58ff1ee30" "Water filter and water crisis curricula" %}} and {{% resource_link "c6588135-9c05-49ba-b142-019cb9c45d0c" "examples" %}}.
-*   {{% resource_link "77b97500-e605-4a4f-8663-047dff8c3cfd" "Dread Scott, artist" %}}.
-*   {{% resource_link "bec43843-9908-47e4-8ff9-f455504e74bd" "The 1968 sanitation workers’ strike in Memphis, TN" %}}.
-*   Darts, David. "{{% resource_link "b4dcde3f-586b-4667-8fd1-49d7f9dd50fc" "Visual Cultural Jam: Art, Pedagogy, and Creative Resistance" %}}." _Studies in Art Education_ 45, no. 4 (2004): 313–327. 
-*   {{% resource_link "7c386617-9aae-424c-8611-915917ddd9b7" "Africana Research Center" %}}.
+*   [Water filter and water crisis curricula](http://sites.psu.edu/watercrisis/) and [examples](http://sites.psu.edu/reservoirstudio/curricula/curriculum-examples/).
+*   [Dread Scott, artist](http://www.dreadscott.net/).
+*   [The 1968 sanitation workers’ strike in Memphis, TN](https://en.wikipedia.org/wiki/Memphis_sanitation_strike).
+*   Darts, David. "[Visual Cultural Jam: Art, Pedagogy, and Creative Resistance](https://www.tandfonline.com/doi/abs/10.1080/00393541.2004.11651778)." _Studies in Art Education_ 45, no. 4 (2004): 313–327. 
+*   [Africana Research Center](http://arc.la.psu.edu/).
 
  Special thanks to the Africana Research Center for their support of the water filter project.
