@@ -8,8 +8,9 @@ leftnav:
   pageRef: /pages/videos/
   weight: 20
 - identifier: 37775d8c-9608-b828-6036-a649cf3d705f
-  name: Appropriate Technology as Intentionally Disruptive Responsibility
-  pageRef: /pages/videos/appropriate-technology
+  name: 'Making Something from Nothing: Appropriate Technology as Intentionally Disruptive
+    Responsibility'
+  pageRef: /pages/videos/making-something-from-nothing-appropriate-technology-as-intentionally-disruptive-responsibility
   parent: fc7f9e0e-6206-a6ae-8fbd-276bc3337775
   weight: 30
 - identifier: 65b19c11-9bbb-1891-4229-baa8cf9539f0

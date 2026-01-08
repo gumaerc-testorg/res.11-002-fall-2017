@@ -22,6 +22,6 @@ Here Carpenter engages participants in two interpretation activities used to enc
 
 People and ideas referenced in this video:
 
-- Dread Scott, {{% resource_link "21f27434-91fb-4e6d-be6d-72c3c0588109" "*On the Impossibility of Freedom in a Country Founded on Slavery and Genocide*" %}}*.*
+- Dread Scott, [*On the Impossibility of Freedom in a Country Founded on Slavery and Genocide*](https://www.dreadscott.net/portfolio_page/on-the-impossibility-of-freedom-in-a-country-founded-on-slavery-and-genocide/)*.*
 - Garoian, Charles. *Performing Pedagogy: Toward an Art of Politics*. SUNY Press, 1999. ISBN: 97807091443248.
 - Tara Brown (top) and Nichole Rodriguez (bottom), autobiographical public performance interventions, 2017 (at 9:31 in the video).

@@ -19,5 +19,5 @@ In this video, Carpenter explains the concepts of double taking and troublemakin
 
 People and ideas referenced in this video:
 
-*   {{% resource_link "d29062da-9817-457b-88da-e82de80edc2e" "Double Water Fountains project" %}} on tumblr.
-*   {{% resource_link "1f0cb42a-5f6e-440a-9401-1b873a2ed0ba" "Elliott Erwitt’s" %}} “Segregated Water Fountains.”
+*   [Double Water Fountains project](http://bscarpenterii.tumblr.com/) on tumblr.
+*   [Elliott Erwitt’s](https://en.wikipedia.org/wiki/Elliott_Erwitt) “Segregated Water Fountains.”
