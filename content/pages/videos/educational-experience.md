@@ -22,4 +22,4 @@ People and ideas referenced in this video:
 *    Posner, George. _Analyzing the Curriculum_. McGraw-Hill Education, 2003. ISBN: 9780072823271. 
 *    Bateman, Walter L. _Open to Question: The Art of Teaching and Learning by Inquiry_. Jossey-Bass, Inc., 1990. 
 *   Architecture for Humanity. _Design Like You Give a Damn_. US Green Building Council, 2006. ISBN: 9781933945252. 
-*   {{% resource_link "c9d269ba-3eb4-463f-b62f-b8453bae8eb1" "![Buy at MIT Press](/images/mp_logo.gif)" %}}  Thompson, Nato and Gregory Sholette, eds. _{{% resource_link "26f78c89-e238-4e5a-899b-d2428d73d56b" "The Interventionists: Users' Manual for the Creative Disruption of Everyday Life" %}}_. MIT Press, 2006. ISBN: 9780262201506.
+*   [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262201506)  Thompson, Nato and Gregory Sholette, eds. _[The Interventionists: Users' Manual for the Creative Disruption of Everyday Life](http://mitpress.mit.edu/9780262201506)_. MIT Press, 2006. ISBN: 9780262201506.
